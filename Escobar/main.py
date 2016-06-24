@@ -2,6 +2,7 @@
 Created on Jun 24, 2016
 
 @author: Escobar
+Code used for HackerRank Challenge
 '''
 
 
